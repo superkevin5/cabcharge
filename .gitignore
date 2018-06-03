@@ -46,3 +46,5 @@ Thumbs.db
 *.log
 
 .idea/
+
+server/build/*
